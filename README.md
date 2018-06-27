@@ -1,0 +1,2 @@
+# OpenMPI
+OpenMPIの練習

@@ -1,3 +1,7 @@
+//
+// https://qiita.com/g_rej55/items/768d2b9383f400c04006
+// @g_rej55 作
+//
 #include <iostream>
 #include <stdio.h>
 #include <chrono>
